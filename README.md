@@ -4,6 +4,8 @@
 
 It's a SQL database you can connect to directly from the client.
 
+//dsf
+
 Using Supabase you can:
 - Read & Write data from a PostgreSQL database
 - Listen to changes in Realtime
